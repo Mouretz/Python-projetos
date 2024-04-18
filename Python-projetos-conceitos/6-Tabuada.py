@@ -1,0 +1,13 @@
+# 09 - Leia numero inteiro e mostre sua tabuada
+NQ = int(input('Digite um numero inteiro: '))
+print(f'A tabuada de 1 a 10 de  {NQ} e: ')
+print(f'{NQ} X 1 = {NQ*1}')  #ou print('{} X {} = {}'.format(NQ, 1, NQ*1))
+print(f'{NQ} X 2 = {NQ*2}')
+print(f'{NQ} X 3 = {NQ*3}')
+print(f'{NQ} X 4 = {NQ*4}')
+print(f'{NQ} X 5 = {NQ*5}')
+print(f'{NQ} X 6 = {NQ*6}')
+print(f'{NQ} X 7 = {NQ*7}')
+print(f'{NQ} X 8 = {NQ*8}')
+print(f'{NQ} X 9 = {NQ*9}')
+print(f'{NQ} X 10 = {NQ*10}')
